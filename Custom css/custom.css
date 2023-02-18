@@ -55,3 +55,7 @@ body {
 .mt-sm-5 {
     margin-top: 35px;
 }
+
+.mahim:hover {
+    cursor: pointer;
+}
