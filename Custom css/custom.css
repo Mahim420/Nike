@@ -1,0 +1,37 @@
+/*---------------------------------------------------
+-------------------COMMON UTILITIES---------------- */
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+/*------------------------------------------------------------
+------------------------------CUSTOM CSS--------------------*/
+
+/* ------------------HEADER---------------------*/
+.bg-header {
+    background-color: #FFF9F4;
+}
+
+.text-nike {
+    color: #FA804C;
+}
+
+.text-infinity {
+    color: #363958;
+}
+
+.text-lorem {
+    color: #3E3E3E;
+}
+
+.p-6 {
+    padding: 6rem;
+}
+
+.fs-7 {
+    font-size: 3rem;
+}
+
+.w-105 {
+    width: 117%;
+}
